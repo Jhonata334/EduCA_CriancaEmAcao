@@ -56,13 +56,13 @@ O sistema permitirá:
 - Cadastro e gerenciamento de alunos.
 - Controle de turmas.
 - Gerenciamento de disciplinas.
-  Controle de notas.
 - Controle de frequência.
 - Organização de dados acadêmicos.
+- Controle de Notas.
 
 👩‍🏫 Gestão Pedagógica
 
-- Gerenciamento de professores.
+- Gerenciamentodeprofessores.
 - Planejamento pedagógico.
 - Registro de atividades e conteúdos.
 - Organização de calendários escolares.
@@ -71,20 +71,20 @@ O sistema permitirá:
 
 Implementação de um portal com acesso simplificado para responsáveis e alunos, permitindo:
 
-- Consulta de notas
-- Consulta de faltas
-- Visualização das disciplinas
-- Acompanhamento da rotina escolar
-- Acesso a datas importantes e comunicados
+- Consulta de notas.
+- Consulta de faltas.
+- Visualização das disciplinas.
+- Acompanhamento da rotina escolar.
+- Acesso a datas importantes e comunicados.
 
 💰 Gestão Financeira *(em desenvolvimento)*
 
 Implementação de funcionalidades voltadas ao controle financeiro da instituição, incluindo:
 
-- Controle de mensalidades
-- Registro de pagamentos
-- Organização financeira
-- Emissão de relatórios administrativos
+- Controle de mensalidades.
+- Registro de pagamentos.
+- Organização financeira.
+- Emissão de relatórios administrativos.
 
 ---
 
