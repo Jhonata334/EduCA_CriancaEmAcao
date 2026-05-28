@@ -1,88 +1,136 @@
-<h1 align="center">📚 EduCA</h1>
+<h1 align="center">📚 EduCA - Criança em Ação </h1>
 
 <p align="center">
-Sistema desenvolvido para organizar, automatizar e integrar processos administrativos e pedagógicos de uma instituição de ensino.
+Sistema desenvolvido para organizar, automatizar e integrar processos administrativos, pedagógicos e financeiros da instituição de ensino Criança em Ação.
 </p>
-
-
 
 ---
 
 ## 📖 Descrição
 
-Este projeto foi desenvolvido na disciplina **Projeto Integrador I** com o objetivo de criar um **Sistema de Gestão Escolar** capaz de centralizar e organizar as principais informações acadêmicas e administrativas de uma instituição de ensino.
+O EduCA - Criança em Ação é um Sistema de Gestão Escolar desenvolvido na disciplina de Projeto Integrador I com o objetivo de centralizar e modernizar os processos acadêmicos, administrativos e organizacionais da instituição.
 
-A plataforma busca integrar diferentes áreas da escola em um único ambiente digital, facilitando o acesso às informações por **gestores, professores e equipe administrativa**.
+A plataforma foi projetada para integrar diferentes setores da escola em um único ambiente digital, proporcionando mais praticidade, organização, segurança e eficiência no gerenciamento das informações escolares.
 
----
-
-## 🎯 Objetivos Iniciais
-
-- 🤝 Definir padrões com o **Stakeholder**
-- 💻 Definir **lingagens e tecnologias**
-- 📊 Definir **metas alcançáveis**
-- 📋 Realizar o **levantamento de requisitos**
-- 🎨 Desenvolver a **prototipagem do sistema**
-- 📝 Iniciar a **documentação do projeto**
+Além do suporte à equipe administrativa e pedagógica, o sistema também busca aproximar responsáveis e alunos da rotina escolar por meio de um ambiente dedicado ao acompanhamento acadêmico.
 
 ---
 
-## 🚀 Objetivo do Projeto
+## 🎯 Objetivos do Projeto
 
-Orientar o desenvolvimento de uma **plataforma centralizada** que automatize processos administrativos e acadêmicos, garantindo que a gestão de **alunos, docentes e turmas** ocorra de forma:
-
-- Digital
-- Integrada
-- Segura
-- Eficiente
+- 🤝 Definir padrões junto ao stakeholder
+- 💻 Selecionar tecnologias e ferramentas adequadas
+- 📊 Estabelecer metas alcançáveis para o desenvolvimento
+- 📋 Realizar levantamento de requisitos
+- 🎨 Desenvolver prototipagem e interface do sistema
+- 📝 Estruturar e manter a documentação do projeto
+- 🚀 Desenvolver uma plataforma integrada para gestão escolar
 
 ---
 
-## ⚠️ Problema Principal
+## ⚠️ Problema Identificado
 
-Atualmente, a instituição realiza grande parte dos processos administrativos **utilizando papel**, o que torna as atividades:
+Atualmente, grande parte dos processos administrativos da instituição ainda é realizada manualmente, utilizando documentos físicos e registros em papel.
 
-- Mais lentas
-- Difíceis de organizar
-- Menos seguras
-- Suscetíveis à perda de dados
+Esse modelo ocasiona:
 
-Além disso, a recuperação de informações históricas se torna **complexa e pouco eficiente**.
+- Lentidão nos processos
+- Dificuldade de organização
+- Maior risco de perda de informações
+- Baixa eficiência no acesso aos dados históricos
+- Excesso de processos manuais
+- Dificuldade no acompanhamento acadêmico
 
+Além disso, a comunicação entre escola, responsáveis e alunos torna-se limitada e pouco centralizada.
 ---
 
 ## 💡 Solução Proposta
 
-O **Sistema de Gestão Escolar** permitirá:
+O EduCA foi desenvolvido para oferecer uma solução digital centralizada capaz de automatizar e integrar os principais processos da instituição.
 
-- 👨‍🎓 Cadastro e gerenciamento de **alunos**
-- 👩‍🏫 Gerenciamento de **professores**
-- 🏫 Controle de **turmas**
-- 📚 Administração de **disciplinas**
-- 📊 Organização de dados acadêmicos
+O sistema permitirá:
 
-Tudo isso em uma **plataforma digital centralizada**, facilitando o controle e a gestão das informações da escola.
+👨‍🎓 Gestão Acadêmica
 
+- Cadastro e gerenciamento de alunos
+- Controle de turmas
+- Gerenciamento de disciplinas
+- Controle de notas
+- Controle de frequência
+- Organização de dados acadêmicos
+  
+👩‍🏫 Gestão Pedagógica
+
+- Gerenciamento de professores
+- Planejamento pedagógico
+- Registro de atividades e conteúdos
+- Organização de calendários escolares
+  
+👨‍👩‍👧 Área dos Pais e Alunos (em desenvolvimento)
+
+Implementação de um portal com acesso simplificado para responsáveis e alunos, permitindo:
+
+- Consulta de notas
+- Consulta de faltas
+- Visualização das disciplinas
+- Acompanhamento da rotina escolar
+- Acesso a datas importantes e comunicados
+  
+💰 Gestão Financeira (em desenvolvimento)
+
+Implementação de funcionalidades voltadas ao controle financeiro da instituição, incluindo:
+
+- Controle de mensalidades
+- Registro de pagamentos
+- Organização financeira
+- Emissão de relatórios administrativos
 ---
+
+## 🛠 Tecnologias Utilizadas
+
+- Java
+- MySQL
+- Git & GitHub
+- Figma
+- UML
+- Metodologia Ágil Scrum
 
 ## 👥 Equipe do Projeto
 
 | Função | Integrante |
-|------|------|
+|---|---|
 | 🧭 Product Owner | Miguel Silva |
-| 🛠 Scrum Master / DBA | Érik Santana |
-| 💻 Dev Team | Jhonata Ferreira |
-| 💻 Dev Team | Isadora Fernandes |
-| 🏗 Arquiteto | Luca Romariz |
+| 💻 Equipe de Desenvolvimento | Isadora Fernandes |
+| 💻 Equipe de Desenvolvimento | Jhonata Ferreira |
+| 🏗 Arquiteto de Software | Luca Romariz |
+
+> Atualmente, as responsabilidades de organização e acompanhamento do projeto estão sendo divididas entre os integrantes da equipe.
 
 ---
 
 ## 📌 Status do Projeto
 
-🚧 **Projeto em desenvolvimento**
+🚧 Projeto em desenvolvimento
+
+## Funcionalidades já estruturadas
+
+- Gestão de alunos
+- Gestão de professores
+- Controle de turmas
+- Organização acadêmica
+- Protótipos e documentação
+
+## Funcionalidades em desenvolvimento
+
+- Portal de pais e alunos
+- Sistema financeiro
+- Relatórios administrativos
+- Melhorias de usabilidade e integração
 
 ---
 
-<p align="center">
-Desenvolvido no Projeto Integrador I 🎓
-</p>
+## 📚 Instituição Parceira
+
+**Criança em Ação**
+
+Projeto acadêmico desenvolvido com foco na modernização e digitalização dos processos escolares da instituição.
