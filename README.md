@@ -6,9 +6,9 @@ Sistema desenvolvido para organizar, automatizar e integrar processos administra
 
 ---
 
-## 📖 Descrição
+# 📖 Descrição
 
-O EduCA - Criança em Ação é um Sistema de Gestão Escolar desenvolvido na disciplina de Projeto Integrador I com o objetivo de centralizar e modernizar os processos acadêmicos, administrativos e organizacionais da instituição.
+O **EduCA - Criança em Ação** é um Sistema de Gestão Escolar desenvolvido na disciplina de Projeto Integrador I com o objetivo de centralizar e modernizar os processos acadêmicos, administrativos e organizacionais da instituição.
 
 A plataforma foi projetada para integrar diferentes setores da escola em um único ambiente digital, proporcionando mais praticidade, organização, segurança e eficiência no gerenciamento das informações escolares.
 
@@ -34,14 +34,15 @@ Atualmente, grande parte dos processos administrativos da instituição ainda é
 
 Esse modelo ocasiona:
 
-- Lentidão nos processos
-- Dificuldade de organização
-- Maior risco de perda de informações
-- Baixa eficiência no acesso aos dados históricos
-- Excesso de processos manuais
-- Dificuldade no acompanhamento acadêmico
+- Lentidão nos processos.
+- Dificuldade de organização.
+- Maior risco de perda de informações.
+- Baixa eficiência no acesso aos dados históricos.
+- Excesso de processos manuais.
+- Dificuldade no acompanhamento acadêmico.
 
 Além disso, a comunicação entre escola, responsáveis e alunos torna-se limitada e pouco centralizada.
+
 ---
 
 ## 💡 Solução Proposta
@@ -50,23 +51,23 @@ O EduCA foi desenvolvido para oferecer uma solução digital centralizada capaz 
 
 O sistema permitirá:
 
-👨‍🎓 Gestão Acadêmica
+ 👨‍🎓 Gestão Acadêmica
 
-- Cadastro e gerenciamento de alunos
-- Controle de turmas
-- Gerenciamento de disciplinas
-- Controle de notas
-- Controle de frequência
-- Organização de dados acadêmicos
-  
+- Cadastro e gerenciamento de alunos.
+- Controle de turmas.
+- Gerenciamento de disciplinas.
+  Controle de notas.
+- Controle de frequência.
+- Organização de dados acadêmicos.
+
 👩‍🏫 Gestão Pedagógica
 
-- Gerenciamento de professores
-- Planejamento pedagógico
-- Registro de atividades e conteúdos
-- Organização de calendários escolares
-  
-👨‍👩‍👧 Área dos Pais e Alunos (em desenvolvimento)
+- Gerenciamento de professores.
+- Planejamento pedagógico.
+- Registro de atividades e conteúdos.
+- Organização de calendários escolares.
+
+👨‍👩‍👧 Área dos Responsável *(em desenvolvimento)*
 
 Implementação de um portal com acesso simplificado para responsáveis e alunos, permitindo:
 
@@ -75,8 +76,8 @@ Implementação de um portal com acesso simplificado para responsáveis e alunos
 - Visualização das disciplinas
 - Acompanhamento da rotina escolar
 - Acesso a datas importantes e comunicados
-  
-💰 Gestão Financeira (em desenvolvimento)
+
+💰 Gestão Financeira *(em desenvolvimento)*
 
 Implementação de funcionalidades voltadas ao controle financeiro da instituição, incluindo:
 
@@ -84,6 +85,7 @@ Implementação de funcionalidades voltadas ao controle financeiro da instituiç
 - Registro de pagamentos
 - Organização financeira
 - Emissão de relatórios administrativos
+
 ---
 
 ## 🛠 Tecnologias Utilizadas
@@ -94,6 +96,8 @@ Implementação de funcionalidades voltadas ao controle financeiro da instituiç
 - Figma
 - UML
 - Metodologia Ágil Scrum
+
+---
 
 ## 👥 Equipe do Projeto
 
@@ -112,7 +116,7 @@ Implementação de funcionalidades voltadas ao controle financeiro da instituiç
 
 🚧 Projeto em desenvolvimento
 
-## Funcionalidades já estruturadas
+### Funcionalidades já estruturadas
 
 - Gestão de alunos
 - Gestão de professores
@@ -120,7 +124,7 @@ Implementação de funcionalidades voltadas ao controle financeiro da instituiç
 - Organização acadêmica
 - Protótipos e documentação
 
-## Funcionalidades em desenvolvimento
+### Funcionalidades em desenvolvimento
 
 - Portal de pais e alunos
 - Sistema financeiro
@@ -133,4 +137,4 @@ Implementação de funcionalidades voltadas ao controle financeiro da instituiç
 
 **Criança em Ação**
 
-Projeto acadêmico desenvolvido com foco na modernização e digitalização dos processos escolares da instituição.
+Projeto desenvolvido com foco na modernização e digitalização dos processos internos da instituição.
