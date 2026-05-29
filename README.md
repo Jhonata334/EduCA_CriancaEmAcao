@@ -104,7 +104,7 @@ Implementação de funcionalidades voltadas ao controle financeiro da instituiç
 | Função | Integrante |
 |---|---|
 | 🧭 Product Owner | Miguel Silva |
-| 💻 Equipe de Desenvolvimento | Isadora Fernandes |
+| 🛠 Scrum Master | Isadora Fernandes |
 | 💻 Equipe de Desenvolvimento | Jhonata Ferreira |
 | 🏗 Arquiteto de Software | Luca Romariz |
 
