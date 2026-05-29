@@ -108,7 +108,7 @@ Implementação de funcionalidades voltadas ao controle financeiro da instituiç
 | 💻 Equipe de Desenvolvimento | Jhonata Ferreira |
 | 🏗 Arquiteto de Software | Luca Romariz |
 
-> Atualmente, as responsabilidades de organização e acompanhamento do projeto estão sendo divididas entre os integrantes da equipe.
+> A equipe atua de forma colaborativa no desenvolvimento, organização e acompanhamento contínuo do projeto.
 
 ---
 
