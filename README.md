@@ -136,5 +136,7 @@ Implementação de funcionalidades voltadas ao controle financeiro da instituiç
 ## 📚 Instituição Parceira
 
 **Criança em Ação**
+Do Infantil ao Fundamental - Regular, semi-integral e integral.
+**Local:** Setor Tradicional - Planaltina-DF
 
-Projeto desenvolvido com foco na modernização e digitalização dos processos internos da instituição.
+Projeto em desenvolvimento, com foco na modernização e digitalização dos processos internos da instituição.
