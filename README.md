@@ -135,8 +135,7 @@ Implementação de funcionalidades voltadas ao controle financeiro da instituiç
 
 ## 📚 Instituição Parceira
 
-**Criança em Ação**
-Do infantil ao fundamental - regular, semi-integral e integral.
+**Criança em Ação** | Do infantil ao fundamental - regular, semi-integral e integral.
 
 **Local:** Setor Tradicional - Planaltina-DF
 
