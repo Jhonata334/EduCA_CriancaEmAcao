@@ -2,17 +2,21 @@
 
 ## O que terá o Protótipo:
 
-### Visão Geral
-![Visão Geral](Prototipo/desktop/v1/Visão Geral - Menu Aberto.png)
-
 ### Tela de Login
-![Tela de Login](imagens/login.png)
+![Tela de Login](Prototipo/desktop/v2/Login%20-%20EduCA.png)
 
-### Tela de Notas / Desempenho
-![Tela de Notas](imagens/notas.png)
+### Visão Geral - Menu Aberto
+![Visão Geral - Menu Aberto](Prototipo/desktop/v2/Frequência%20-%20Menu%20Aberto.png)
 
-### Tela de Frequência
-![Tela de Frequência](imagens/frequencia.png)
+### Visão Geral - Menu Fechado
+![Visão Geral - Menu Fechado](Prototipo/desktop/v2/Visão%20Geral%20-%20Menu%20Fechado.png)
 
-### Tela de Gestão do Professor
-![Tela de Gestão do Professor](imagens/gestao-professor.png)
+### Tela de Notas - Menu Aberto
+![Tela de Notas - Menu Aberto](Prototipo/desktop/v2/Notas%20-%20Menu%20Aberto.png)
+
+### Tela de Notas - Menu Fechado
+![Tela de Notas - Menu Fechado](Prototipo/desktop/v2/Visão%20Geral%20-%20Menu%20Fechado.png)
+
+### Tela de Frequência - Menu Aberto
+![Tela de Frequência - Menu Aberto](Prototipo/desktop/v2/Frequência%20-%20Menu%20Aberto.png)
+
