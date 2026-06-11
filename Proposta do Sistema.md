@@ -3,7 +3,7 @@
 ## O que terá o Protótipo:
 
 ### Visão Geral
-![Visão Geral](protótipo/desktop/v1/Visão Geral - Menu Aberto.png)
+![Visão Geral](Prototipo/desktop/v1/Visão Geral - Menu Aberto.png)
 
 ### Tela de Login
 ![Tela de Login](imagens/login.png)
