@@ -1,0 +1,100 @@
+# EduCA - Sistema de Gestão Escolar
+
+## Projeto Integrador I
+
+**Centro Universitário de Brasília – CEUB**
+**Faculdade de Tecnologia e Ciências Sociais Aplicadas – FATECS**
+**Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas**
+
+### Equipe
+
+* Miguel Rocha
+* Isadora Fernandes
+* Jhonata Ferreira
+* Luca Romariz
+
+**Brasília, 2026**
+
+---
+
+# Aprendizados Principais
+
+Ao longo do desenvolvimento do projeto, a equipe adquiriu conhecimentos práticos sobre metodologias ágeis, especialmente Scrum e Design Thinking. A construção do Documento de Visão, do levantamento de requisitos, do Product Backlog e do planejamento das Sprints possibilitou compreender melhor as etapas necessárias para o desenvolvimento de uma solução tecnológica alinhada às necessidades do cliente.
+
+Outro aprendizado importante foi a utilização de ferramentas colaborativas como GitHub, Figma, Canva e Google Docs para organização, documentação e prototipação do sistema.
+
+A equipe também percebeu a importância da comunicação contínua entre os integrantes e da validação frequente com a stakeholder, garantindo que o projeto permanecesse alinhado às necessidades da Escola Criança em Ação.
+
+Além dos conhecimentos técnicos, foram desenvolvidas habilidades relacionadas à organização, trabalho em equipe, comunicação e resolução de problemas.
+
+---
+
+# Ajustes Sugeridos
+
+Durante a realização desta primeira etapa do projeto, foi possível identificar alguns pontos que podem ser aprimorados em futuras iterações e na continuidade do desenvolvimento da solução.
+
+Os principais ajustes sugeridos pela equipe são:
+
+* Definir responsabilidades e entregas de forma mais detalhada logo no início do projeto.
+* Realizar revisões periódicas dos documentos para evitar acúmulo de atividades próximas às datas de entrega.
+* Registrar formalmente as decisões tomadas durante as reuniões da equipe.
+* Manter atualizações mais frequentes no GitHub ao longo do desenvolvimento.
+* Realizar mais avaliações intermediárias com a stakeholder durante a construção das funcionalidades.
+
+A implementação dessas melhorias poderá contribuir para uma melhor distribuição das atividades, maior organização da equipe, aprimoramento da comunicação interna e aumento da eficiência no desenvolvimento do projeto.
+
+---
+
+# Registro Start / Stop / Continue
+
+Durante a retrospectiva, a equipe analisou as práticas adotadas ao longo do desenvolvimento do projeto, identificando ações que devem ser iniciadas, interrompidas ou mantidas em futuras iterações.
+
+Essa análise permitiu reconhecer oportunidades de melhoria, dificuldades enfrentadas durante a execução das atividades e práticas que contribuíram positivamente para o alcance dos objetivos do projeto.
+
+## 3.1 Start
+
+* Realizar validações mais frequentes com os usuários finais para identificar melhorias ainda durante o desenvolvimento.
+* Planejar as atividades da sprint com mais antecedência para evitar sobrecarga próxima aos prazos.
+* Promover mais momentos de alinhamento entre os integrantes da equipe para acompanhar a evolução das tarefas.
+* Explorar novas funcionalidades e soluções inovadoras que agreguem valor.
+* Realizar análises de riscos logo no início das etapas do projeto para antecipar possíveis dificuldades.
+* Manter a comunicação aberta e colaborativa entre todos os integrantes da equipe.
+
+## 3.2 Stop
+
+* Deixar atividades importantes para serem concluídas próximo das datas de entrega.
+* Trabalhar em partes isoladas do projeto sem compartilhar frequentemente o andamento com a equipe.
+* Tomar decisões sem validar previamente o impacto para os usuários e para os objetivos do projeto.
+* Focar apenas na execução das tarefas sem revisar continuamente a qualidade das entregas.
+* Concentrar muitas responsabilidades em poucos membros da equipe.
+
+## 3.3 Continue
+
+* Utilizar metodologias ágeis para organização e acompanhamento das atividades.
+* Buscar feedback constante da stakeholder para garantir aderência às necessidades da instituição.
+* Desenvolver protótipos antes da implementação para validar ideias e funcionalidades.
+* Trabalhar de forma colaborativa na resolução de problemas e tomada de decisões.
+* Manter o comprometimento da equipe com os objetivos e entregas do projeto.
+
+---
+
+# Reflexão Crítica
+
+O projeto **EduCA** está sendo desenvolvido com o propósito de apoiar a gestão escolar por meio da centralização de informações acadêmicas, administrativas e de comunicação em um único ambiente digital.
+
+Durante o desenvolvimento, a equipe buscou compreender as necessidades da instituição e transformá-las em funcionalidades que agregassem valor aos gestores, professores, responsáveis e alunos.
+
+A construção dos protótipos permitiu visualizar funcionalidades importantes para o contexto escolar, como:
+
+* Login de usuários;
+* Dashboard gerencial;
+* Registro de notas;
+* Controle de frequência;
+* Gestão de professores;
+* Acompanhamento escolar pelos responsáveis.
+
+Além disso, a aplicação das metodologias Scrum e Design Thinking proporcionou uma experiência prática de planejamento, levantamento de requisitos, validação com a stakeholder e desenvolvimento incremental da solução.
+
+Como impacto esperado, o **EduCA** possui potencial para tornar a gestão escolar mais eficiente, facilitar o acesso às informações e fortalecer a comunicação entre escola e família.
+
+Mais do que a criação de um protótipo, o projeto representou uma importante oportunidade de aprendizado, contribuindo para o desenvolvimento de competências técnicas, organizacionais e colaborativas que serão fundamentais na formação profissional da equipe.
