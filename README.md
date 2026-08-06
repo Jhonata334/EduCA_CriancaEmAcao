@@ -1,4 +1,4 @@
-<h1 align="center">📚 EduCA - Criança em Ação </h1>
+<h1 align="center">📚 EduCA  </h1>
 
 <p align="center">
 Sistema desenvolvido para organizar, automatizar e integrar processos administrativos, pedagógicos e financeiros da instituição de ensino Criança em Ação.
@@ -105,8 +105,8 @@ Implementação de funcionalidades voltadas ao controle financeiro da instituiç
 |---|---|
 | 🧭 Product Owner | Miguel Silva |
 | 🛠 Scrum Master | Isadora Fernandes |
-| 💻 Equipe de Desenvolvimento | Jhonata Ferreira |
 | 🏗 Arquiteto de Software | Luca Romariz |
+| 💻 Equipe de Desenvolvimento | Todos |
 
 > A equipe atua de forma colaborativa no desenvolvimento, organização e acompanhamento contínuo do projeto.
 
